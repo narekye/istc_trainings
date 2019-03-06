@@ -11,6 +11,10 @@ namespace _1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!!!");
+
+            int x = 5;
+            // 
+            //
         }
     }
 }
